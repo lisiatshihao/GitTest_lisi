@@ -9,6 +9,7 @@ public class EgitTest {
 		System.out.println("555555555555555555");
 		System.out.println("777777777777");
 		System.out.println("66666666");
+		System.out.println("创建了一个新分支王五创建");
 
 	}
 }
